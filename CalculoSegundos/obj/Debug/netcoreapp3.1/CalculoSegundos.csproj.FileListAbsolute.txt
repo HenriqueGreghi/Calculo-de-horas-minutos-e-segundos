@@ -1,0 +1,14 @@
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\bin\Debug\netcoreapp3.1\CalculoSegundos.exe
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\bin\Debug\netcoreapp3.1\CalculoSegundos.deps.json
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\bin\Debug\netcoreapp3.1\CalculoSegundos.runtimeconfig.json
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\bin\Debug\netcoreapp3.1\CalculoSegundos.runtimeconfig.dev.json
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\bin\Debug\netcoreapp3.1\CalculoSegundos.dll
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\bin\Debug\netcoreapp3.1\CalculoSegundos.pdb
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\obj\Debug\netcoreapp3.1\CalculoSegundos.csproj.AssemblyReference.cache
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\obj\Debug\netcoreapp3.1\CalculoSegundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\obj\Debug\netcoreapp3.1\CalculoSegundos.AssemblyInfoInputs.cache
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\obj\Debug\netcoreapp3.1\CalculoSegundos.AssemblyInfo.cs
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\obj\Debug\netcoreapp3.1\CalculoSegundos.csproj.CoreCompileInputs.cache
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\obj\Debug\netcoreapp3.1\CalculoSegundos.dll
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\obj\Debug\netcoreapp3.1\CalculoSegundos.pdb
+C:\Users\017557631\source\repos\CalculoSegundos\CalculoSegundos\obj\Debug\netcoreapp3.1\CalculoSegundos.genruntimeconfig.cache
