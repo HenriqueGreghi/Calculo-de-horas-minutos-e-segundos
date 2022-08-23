@@ -6,9 +6,9 @@ namespace CalculoSegundos
 {
     class Calculo
     {
-        public int horas;
-        public int minutos;
-        public int segundos;
+        private int horas;
+        private int minutos;
+        private int segundos;
         public int seg;
 
         public void Calcular()
@@ -21,7 +21,9 @@ namespace CalculoSegundos
         }
         public void Imprimir()
         {
+            Console.WriteLine("H :M :S");
             Console.WriteLine( + horas + ":" + minutos + ":" + segundos);
+            
         }
     }
 }
